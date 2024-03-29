@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CookEat/static/css/main.4f0feb92.css",
+    "main.js": "/CookEat/static/js/main.72f3fb7d.js",
+    "index.html": "/CookEat/index.html",
+    "main.4f0feb92.css.map": "/CookEat/static/css/main.4f0feb92.css.map",
+    "main.72f3fb7d.js.map": "/CookEat/static/js/main.72f3fb7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f0feb92.css",
+    "static/js/main.72f3fb7d.js"
+  ]
+}
