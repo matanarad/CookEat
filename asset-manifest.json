@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/CookEat/static/css/main.4f0feb92.css",
-    "main.js": "/CookEat/static/js/main.72f3fb7d.js",
+    "main.css": "/CookEat/static/css/main.4dbba068.css",
+    "main.js": "/CookEat/static/js/main.68f67da7.js",
     "index.html": "/CookEat/index.html",
-    "main.4f0feb92.css.map": "/CookEat/static/css/main.4f0feb92.css.map",
-    "main.72f3fb7d.js.map": "/CookEat/static/js/main.72f3fb7d.js.map"
+    "main.4dbba068.css.map": "/CookEat/static/css/main.4dbba068.css.map",
+    "main.68f67da7.js.map": "/CookEat/static/js/main.68f67da7.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f0feb92.css",
-    "static/js/main.72f3fb7d.js"
+    "static/css/main.4dbba068.css",
+    "static/js/main.68f67da7.js"
   ]
 }
