@@ -1,0 +1,66 @@
+.MealBox {
+  width: 90vw;
+  height: 20vh;
+  border: 1px solid blue;
+  border-radius: 15px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.dish-line {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  text-align: right;
+  gap: 5vw;
+  margin: 1vh;
+  width: 100%;
+  padding-right: 15vw;
+}
+.allergy-line {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  text-align: right;
+  gap: 2vw;
+  width: 100%;
+  padding-right: 15vw;
+}
+.dish-list {
+  /* display: grid;
+  grid-template-columns: 1fr;
+  place-items: center;
+  width: 100%;
+  height: 100%;
+  overflow: auto; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Center the content vertically */
+  align-items: center; /* Center the content horizontally */
+}
+
+.allergies-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  place-items: center;
+  width: 100%;
+  height: 90%;
+  overflow: auto;
+}
+
+.times-and-allergies {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 40% 1fr;
+  place-items: center;
+}
+
+.time-box {
+  width: 80%;
+  height: 80%;
+  border: 1px solid blue;
+  border-radius: 15px;
+  display: grid;
+  grid-template-columns: 40% 1fr;
+  text-align: right;
+  align-items: center;
+  font-size: 150%;
+}
